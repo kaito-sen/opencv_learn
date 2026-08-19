@@ -8,7 +8,7 @@ A structured curriculum is essential for mastering OpenCV with Python, moving sy
 
 * **Lesson 1.1: Environment & IO Operations**
 * Installing OpenCV (`opencv-python`) and NumPy. [View](/InstallingOpenCV.md)
-* Reading, displaying, and writing images (`cv2.imread`, `cv2.imshow`, `cv2.imwrite`).
+* Reading, displaying, and writing images (`cv2.imread`, `cv2.imshow`, `cv2.imwrite`). [View](/ReadingDisplayingWritingImages.md)
 * Understanding image representations as NumPy arrays (`shape`, `dtype`).
 
 
