@@ -99,7 +99,12 @@ print("Data Type:", image.dtype)
 print("Total Size:", image.size)
 
 ```
-
+Result:  
+```bash
+Shape: (512, 512, 3)
+Data Type: uint8
+Total Size: 786432
+```
 ---
 
 ## Complete Example Script
