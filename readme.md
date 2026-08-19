@@ -14,7 +14,7 @@ A structured curriculum is essential for mastering OpenCV with Python, moving sy
 
 * **Lesson 1.2: Video Input & Processing**
 * Reading webcam streams and video files (`cv2.VideoCapture`). [view](/reading_webcam_streams_and_video_files.md)
-* Writing video outputs (`cv2.VideoWriter`). [View](/writing video outputs .md)
+* Writing video outputs (`cv2.VideoWriter`). [View](/writing_video_outputs.md)
 * FPS calculation and real-time frame manipulation loops.
 
 
