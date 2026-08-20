@@ -15,12 +15,12 @@ A structured curriculum is essential for mastering OpenCV with Python, moving sy
 * **Lesson 1.2: Video Input & Processing**
 * Reading webcam streams and video files (`cv2.VideoCapture`). [view](/reading_webcam_streams_and_video_files.md)
 * Writing video outputs (`cv2.VideoWriter`). [View](/writing_video_outputs.md)
-* FPS calculation and real-time frame manipulation loops.
+* FPS calculation and real-time frame manipulation loops. [View](/FPS_calculation.md)
 
 
 * **Lesson 1.3: Drawing Functions & Basic GUI**
-* Drawing shapes: Lines, Rectangles, Circles, Polygons (`cv2.line`, `cv2.rectangle`, etc.).
-* Adding text overlays (`cv2.putText`).
+* Drawing shapes: Lines, Rectangles, Circles, Polygons (`cv2.line`, `cv2.rectangle`, etc.). [View](/Drawing_Shapes.md)
+* Adding text overlays (`cv2.putText`). [View](/Adding_text_overlays.md)
 * Interactivity: Handling Mouse events (`cv2.setMouseCallback`) and Trackbars (`cv2.createTrackbar`).
 
 
